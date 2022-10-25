@@ -6,6 +6,6 @@ SQL.zip : archivo comprimido de la base de datos,
 
 alumnos.sql : archivo base de datos en formato MySQL
 
-estructuraBaseCaC.png : captura de la estructura de la base de datos "Alumnos.sql"
+estructuraBaseCaC.jpg : captura de la estructura de la base de datos "Alumnos.sql"
 
-registrosBaseCaC.png : captura de los registros de la base de datos "Alumnos.sql"
+registrosBaseCaC.jpg : captura de los registros de la base de datos "Alumnos.sql"
